@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-* 👨‍💻 All of my projects are available on [LinkedIn](https://www.linkedin.com/in/rachnaahlawat76/)
+* 👨‍💻 All of my projects are available on [GitHub](https://www.github.com/rachnaahlawat76)
+
+* 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/rachnaahlawat76/)
 
 * 📫 How to reach me: [rachnaahlawat76@gmail.com](mailto:rachnaahlawat76@gmail.com)
 
